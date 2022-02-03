@@ -5,13 +5,14 @@ In this particular query, it is assumed that the weekly note is in the "yyyy-[W]
 ~~~
 ```dataview
 TABLE
-  dateformat(file.day,"ccc, MMM dd") as Date
+  dateformat(file.day,"ccc, MMM dd") AS Date
 FROM
   "Daily Notes"
 WHERE
-  file.day.weekyear = number(split(this.file.name, "W")[1]) and
+  file.day.weekyear = number(split(this.file.name, "W")[1]) AND
   contains(file.name, "-W")
-SORT file.name ASC
+SORT
+  file.name ASC
 ```
 ~~~
 
@@ -19,10 +20,13 @@ SORT file.name ASC
 To get status that a note has no backlinks, outgoing links or tags, we use `length()` function to test if it is `0`. If it is, it means the tested field's properties is empty or null.
 ~~~
 ```dataview
-TABLE rows.file.link as "MD Files"
+TABLE 
+  rows.file.link as "MD Files"
 WHERE
-  (length(file.inlinks) =0 and length(file.outlinks) =0) OR (length(file.tags) =0)
-GROUP BY file.folder
+  (length(file.inlinks) =0 AND length(file.outlinks) =0) OR
+  (length(file.tags) =0)
+GROUP BY
+  file.folder
 ```
 ~~~
 

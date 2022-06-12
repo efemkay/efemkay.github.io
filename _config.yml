@@ -17,6 +17,15 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 
+# Set the defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-include-cache

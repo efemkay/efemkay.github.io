@@ -157,16 +157,16 @@ bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32                        : 'favicon-32x32.png'
-touch-icon-192x192                   : 'touch-icon-192x192.png'
-apple-touch-icon-180x180-precomposed : 'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-152x152-precomposed : 'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-144x144-precomposed : 'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-120x120-precomposed : 'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-114x114-precomposed : 'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-76x76-precomposed   : 'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-72x72-precomposed   : 'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-precomposed         : 'apple-touch-icon-precomposed.png'
+favicon-32x32                        : 'efemkay_32x32.png'
+touch-icon-192x192                   : 'efemkay_icon.png'
+apple-touch-icon-180x180-precomposed : 'efemkay_icon.png'
+apple-touch-icon-152x152-precomposed : 'efemkay_icon.png'
+apple-touch-icon-144x144-precomposed : 'efemkay_icon.png'
+apple-touch-icon-120x120-precomposed : 'efemkay_icon.png'
+apple-touch-icon-114x114-precomposed : 'efemkay_icon.png'
+apple-touch-icon-76x76-precomposed   : 'efemkay_icon.png'
+apple-touch-icon-72x72-precomposed   : 'efemkay_icon.png'
+apple-touch-icon-precomposed         : 'efemkay_icon.png'
 msapplication_tileimage              : 'msapplication_tileimage.png'               # Size 144x144
 msapplication_tilecolor              : '#fabb00'
 

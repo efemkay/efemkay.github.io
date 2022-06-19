@@ -1,3 +1,14 @@
+---
+layout: page
+show_meta: true
+title: "Dataview Queries"
+subheadline: "How to use it"
+breadcrumb: true
+categories:
+    - notes
+    - obsidian
+---
+
 ## Showcases
 
 ### Relevant Daily Notes for Weekly Review

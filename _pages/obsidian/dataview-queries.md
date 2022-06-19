@@ -1,9 +1,5 @@
 ---
-layout: page
-show_meta: true
 title: "Dataview Queries"
-subheadline: "How to use it"
-breadcrumb: true
 permalink: "/notes/obsidian/dataview-queries/"
 ---
 

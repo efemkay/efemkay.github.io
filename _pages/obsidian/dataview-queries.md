@@ -4,9 +4,7 @@ show_meta: true
 title: "Dataview Queries"
 subheadline: "How to use it"
 breadcrumb: true
-categories:
-    - notes
-    - obsidian
+permalink: "/notes/obsidian/dataview-queries/"
 ---
 
 ## Showcases

@@ -1,33 +1,12 @@
-- title: Home
-  url: "/"
-  side: right
-
-- title: "Posts"
-  url: "/posts/"
-  side: right
-
-- title: Projects
-  url: "/projects/"
-  side: right
-  dropdown:
-  - title: "MCL for Obsidian"
-    url: "/projects/mcl"
-  - title: "Excel Addin"
-    url: "/projects/"
-
-- title: "My Notes"
-  url: "/notes/"
-  side: right
-  dropdown:
-  - title: "Obsidian"
-    url: "/notes/obsidian/"
-  - title: "Excel"
-    url: "/notes/excel/"
-
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "About"
-  url: "/about/"
-  side: right
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

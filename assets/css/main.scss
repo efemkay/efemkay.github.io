@@ -7,3 +7,19 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* custom css for indentation guides for bullets */
+ul {
+	position: relative;
+	margin-left: -0.5em;
+}
+ul ul::before {
+	content: "";
+	position: absolute;
+	border-left: 1px solid black;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	margin-left: -0.40em;
+	margin-top: 0;
+}

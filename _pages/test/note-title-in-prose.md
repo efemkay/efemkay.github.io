@@ -6,11 +6,12 @@ categories:
     - zettlekasten
 ---
 
-- #### Metadata
-	- topic:: [[00 Productivity]]
-	- updated:: [[2022-06-20]]
-	- reviewed:: [[2022-06-20]]
-	- #LiteratureNote {: .metadata}
+> [!Metadata]+ #metadata {.metadata1}
+> - topic:: [[00 Productivity]]
+> - updated:: [[2022-06-20]]
+> - reviewed:: [[2022-06-20]]
+> - #LiteratureNote {: .metadata}
+{: .metadata2}
 
 ---
 

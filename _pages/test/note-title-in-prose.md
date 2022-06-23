@@ -6,7 +6,7 @@ categories:
     - zettlekasten
 ---
 
-- #### Metadata {: .metadata}
+- #### Metadata {: .text-left}
 	- topic:: [[00 Productivity]]
 	- updated:: [[2022-06-20]]
 	- reviewed:: [[2022-06-20]]

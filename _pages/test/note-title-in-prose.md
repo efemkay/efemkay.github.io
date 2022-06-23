@@ -1,12 +1,12 @@
 ---
 title: Complete Phrase for Note Title
-permalink: "/:categories/:title/"
+permalink: /:categories/:title/
 categories:
     - notes
     - zettlekasten
 ---
 
-- #### Metadata
+- #### Metadata {: .metadata}
 	- topic:: [[00 Productivity]]
 	- updated:: [[2022-06-20]]
 	- reviewed:: [[2022-06-20]]
@@ -28,6 +28,9 @@ categories:
 > 	- For more, see Taxonomy of note types
 > - I often begin by writing a note without knowing what the title will be. The title often emerges from the text as it’s written. When a note suggests a strong title with a clear claim, that’s a good sign that it’s starting to make sense. Related: Evergreen note titles are like APIs
 >
+
+Justified text. .text-justify Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel eleifend odio, eu elementum purus. In hac habitasse platea dictumst. Fusce sed sapien eleifend, sollicitudin neque non, faucibus est. Proin tempus nisi eu arcu facilisis, eget venenatis eros consequat.
+{: .text-justify}
 
 ## References
 - https://notes.andymatuschak.org/z3KmNj3oKKSTJfqdfSEBzTQiCVGoC4GfK3rYW

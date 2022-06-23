@@ -10,16 +10,22 @@ search: false
 
 /* custom css for indentation guides for bullets */
 ul {
-	position: relative;
-	margin-left: -0.5em;
+	position: relative; margin-left: -0.5em;
 }
 ul ul::before {
 	content: "";
-	position: absolute;
+	position: absolute; margin-left: -0.40em; margin-top: 0;
 	border-left: 1px solid black;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	margin-left: -0.40em;
-	margin-top: 0;
+	top: 0; bottom: 0; left: 0;
+}
+
+/* adjust the margin if in ul */
+    ul :is(h3,h4,h5) {margin-top: 0.5em;}
+    body ul {line-height: 1.3;}
+    
+/* formatting the blockquote */
+blockquote {
+    border-top-right-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+    box-shadow: 2px 2px 15px -4px;
 }

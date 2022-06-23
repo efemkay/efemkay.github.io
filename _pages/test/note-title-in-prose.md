@@ -11,6 +11,10 @@ categories:
 	- updated:: [[2022-06-20]]
 	- reviewed:: [[2022-06-20]]
 	- #LiteratureNote
+{: .metadata}
+
+---
+
 - #### Complete phrases as note title forces us to be convicted with the statement
 	- Evergreen or permanent notes should be concept-oriented
 		- For example: Educational objectives often subvert themselves, Evergreen notes permit smooth incremental progress in writing (“incremental writing”).

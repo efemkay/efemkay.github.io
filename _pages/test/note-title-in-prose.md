@@ -1,9 +1,9 @@
 ---
 title: Complete Phrase for Note Title
-permalink: /:categories/:title/
 categories:
-    - notes
-    - zettlekasten
+  - notes
+  - zettlekasten
+permalink: /:categories/:title/
 ---
 
 > [!Metadata]+ #metadata {.metadata1}

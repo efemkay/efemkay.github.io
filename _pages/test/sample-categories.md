@@ -14,9 +14,20 @@ permalink: /categories-sample/
     {% endfor %}
 </ul>
 
+---
 
 <ul>
     {% for category in site.categories %}
+        <li>
+            {{ category.url }} {{ category.link }} {{ category.title }}
+        </li>
+    {% endfor %}
+</ul>
+
+---
+
+<ul>
+    {% for category in site.pages.categories %}
         <li>
             {{ category.url }} {{ category.link }} {{ category.title }}
         </li>

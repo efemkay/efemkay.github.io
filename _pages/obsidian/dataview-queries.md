@@ -1,5 +1,8 @@
 ---
 title: "Dataview Queries"
+categories:
+  - Obsidian
+  - Dataview
 permalink: "/notes/obsidian/dataview-queries/"
 ---
 

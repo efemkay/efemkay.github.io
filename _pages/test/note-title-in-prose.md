@@ -1,8 +1,8 @@
 ---
 title: Complete Phrase for Note Title
 categories:
-  - notes
-  - zettlekasten
+  - Notes
+  - Zettlekasten
 permalink: /:categories/:title/
 ---
 

@@ -4,6 +4,8 @@
 
 * { box-sizing: border-box; }
 
+/* FMK efemkay edits here */
+
 html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
@@ -15,11 +17,11 @@ html {
   }
 
   @include breakpoint($large) {
-    font-size: 18px; /* default is 20px */
+    font-size: 17px; /* default is 20px */
   }
 
   @include breakpoint($x-large) {
-    font-size: 20px; /* default is 22px */
+    font-size: 18px; /* default is 22px */
   }
 
   -webkit-text-size-adjust: 100%;

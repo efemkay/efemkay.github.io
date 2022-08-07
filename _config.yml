@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter "FaizKhuzaimah"
 facebook:
   username               :
   app_id                 :
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Faiz Khuzaimah / efemkay"
+  name             : "Faiz Khuzaimah"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Economist with interests in Stats and PKM"
   location         : "Kuala Lumpur, Malaysia"
@@ -118,13 +118,13 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/faizkhuzaimah"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/efemkay"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

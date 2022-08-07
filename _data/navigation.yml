@@ -2,8 +2,10 @@
 main:
   - title: "Projects"
     url: /projects/
-  - title: "Notes"
-    url: /notes/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Digital Garden"
+    url: /digital-garden/
   - title: "About"
     url: /about/
   # - title: "Sample Collections"
